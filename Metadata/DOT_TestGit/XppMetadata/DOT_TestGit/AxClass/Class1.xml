@@ -3,4 +3,15 @@
 	i:type="AxCompilerMetadata" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/">
 	<IsFinal>true</IsFinal>
 	<IsInternal>true</IsInternal>
+	<Methods>
+		<Method>
+			<Name>main</Name>
+			<IsStatic>true</IsStatic>
+			<Visibility>Public</Visibility>
+			<ReturnType>
+				<Tags></Tags>
+				<TypeName></TypeName>
+			</ReturnType>
+		</Method>
+	</Methods>
 </z:anyType>
